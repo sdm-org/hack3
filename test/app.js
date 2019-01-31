@@ -15,7 +15,7 @@ describe('GET /login', () => {
       .get('/login')
       .expect(200, done);
   });
-});
+});   
 
 describe('GET /signup', () => {
   it('should return 200 OK', (done) => {
