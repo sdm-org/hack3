@@ -75,7 +75,7 @@ Table of Contents
 
 Features
 --------
-
+ 
 - **Local Authentication** using Email and Password
 - **OAuth 1.0a Authentication** via Twitter
 - **OAuth 2.0 Authentication** via Facebook, Google, GitHub, LinkedIn, Instagram
